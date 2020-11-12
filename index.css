@@ -1,0 +1,24 @@
+h1 {
+    color: white;
+}
+
+body {
+    background-image: url(./Assets/pexels-photo.jpg);
+    color: white;
+}
+.image-left {
+    width: 400px;
+    height: 450px;
+    float: left;
+    padding: 0 10px 0 0;
+}
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.footer h2 {
+    font-size: 20px;
+}
