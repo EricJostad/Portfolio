@@ -27,10 +27,12 @@ body {
 
 .footer {
     padding: 5px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-    bottom: 0;
-    width: 100%;
-    position: relative;
+    position: fixed;
+    background-color: rgb(64, 64, 70);
 }
