@@ -14,6 +14,17 @@ body {
     padding: 0 10px 0 0;
 }
 
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index:1;
+  }
+
+.container {
+    padding: 15px;
+}
+
 .footer {
     padding: 5px;
     clear: both;
@@ -21,5 +32,5 @@ body {
     text-align: center;
     bottom: 0;
     width: 100%;
-    position: fixed;
+    position: relative;
 }
