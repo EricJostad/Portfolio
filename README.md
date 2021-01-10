@@ -13,8 +13,10 @@ Each page has a grid setup. The index page is divided with one row and two colum
 The contact page is one row and one column which contains multiple forms that allow the user to input their contact information. 
 The portfolio page is one row and one column that contains a functional carousel of stock images at this time that will eventaully showcase my completed projects. 
 
-## Main Page
+## Portfolio Page
 ![Portfolio](https://user-images.githubusercontent.com/71619046/104115726-294fd780-52c7-11eb-9d05-b819fb6ede17.png)
+## About Page
+![Portfolio2](https://user-images.githubusercontent.com/71619046/104116189-3e2e6a00-52cb-11eb-8672-18de27cfb28c.png)
 Deployed site: https://ericjostad.github.io/Portfolio/index.html
 
 ## Technologies
