@@ -11,6 +11,21 @@ body {
     font-size: large;
 }
 
+#projectName{
+    text-align: center;
+}
+
+.projectImage{
+    border-radius: 15px;
+}
+
+#projectLinks{
+    text-align: center;
+    font-size: large;
+    font-weight: 500;
+    color: black;
+}
+
 .image-left {
     width: 400px;
     height: 450px;
