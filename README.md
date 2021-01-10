@@ -29,4 +29,4 @@ through the Bootstrap CDN framework.
 - Update styling to provide the user with a greater visual experience upon visiting the site.
 
 ## Author
-- Eric Jostad
+- Eric Jostad | eric.jostad@outlook.com | 407-409-0064
