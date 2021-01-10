@@ -20,6 +20,7 @@ body {
 }
 
 #projectLinks{
+    padding: 100px;
     text-align: center;
     font-size: large;
     font-weight: 500;
@@ -45,6 +46,15 @@ body {
     padding: 15px;
 }
 
+.footerLinks {
+    padding: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    color: black;
+    font-weight: 500;
+    text-align: center;
+}
+
 .footer {
     padding: 5px;
     margin: auto;
@@ -53,6 +63,8 @@ body {
     width: 100%;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+    font-weight: 500;
     text-align: center;
     position: fixed;
     background-color: rgb(50, 50, 54);
