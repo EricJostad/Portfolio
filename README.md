@@ -15,7 +15,7 @@ The portfolio page is one row and one column that contains a functional carousel
 
 ## Main Page
 ![Portfolio](https://user-images.githubusercontent.com/71619046/104115726-294fd780-52c7-11eb-9d05-b819fb6ede17.png)
-https://ericjostad.github.io/Portfolio/index.html
+Deployed site: https://ericjostad.github.io/Portfolio/index.html
 
 ## Technologies
 This project is created with:
